@@ -303,6 +303,9 @@
   .fa-github-square:hover {
     color: rgb(50, 49, 49);
   }
+  .fa-file-pdf:hover {
+    color: rgb(231, 69, 19);
+  }
   /*End about*/
   
   /*Start services*/
