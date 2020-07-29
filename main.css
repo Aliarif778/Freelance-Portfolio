@@ -649,6 +649,9 @@
     }
   }
   @media screen and (max-width: 600px) {
+    html, body {
+      overflow-x: hidden;
+    }
     .menu-toggler {
       top: 2rem;
       right: 2rem;
@@ -673,6 +676,10 @@
   
     .profile-img {
       margin: 0 0 7rem 0;
+    }
+    .social-media i {
+      font-size: 3.5rem;
+     
     }
   
     .portfolio-item {
